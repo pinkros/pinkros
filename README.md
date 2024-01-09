@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hello, world!
+* I'm currently learning .NET development
+* Pronouns: he/they
+
+  
 
 ![pinkros's Stats](https://github-readme-stats.vercel.app/api?username=pinkros&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![pinkros's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkros&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![pinkros's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinkros&theme=vue-dark&hide_border=true)
+
+* 📫 How to reach me: email me at arivd(a)leimar.se or hit me up on Discord: pinkros 
+
 
 <!--
 **pinkros/pinkros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

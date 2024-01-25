@@ -1,6 +1,7 @@
 ### Hello, world!
 * I'm currently learning .NET development
 * Pronouns: he/they
+*  📫 How to reach me: email me at arivd(a)leimar.se or hit me up on Discord: pinkros 
 
   
 
@@ -8,7 +9,7 @@
 
 ![pinkros's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pinkros&theme=vue-dark&hide_border=true)
 
-* 📫 How to reach me: email me at arivd(a)leimar.se or hit me up on Discord: pinkros 
+
 
 
 <!--

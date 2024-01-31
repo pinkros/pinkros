@@ -1,7 +1,9 @@
 ### Hello, world!
 * I'm currently learning .NET development
 * Pronouns: he/they
-*  📫 How to reach me: email me at arivd(a)leimar.se or hit me up on Discord: pinkros 
+* Proficient in: .NET, C#, JavaSpript, TypeScript, Entity Framework, SQL and NoSQL Databases, Blazor, HTML, CSS and more!
+* Self-assigning project manager
+*  📫 How to reach me: email me at arivd(a)leimar.se or hit me up on Discord: pinkros
 
   
 

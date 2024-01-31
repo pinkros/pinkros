@@ -1,7 +1,7 @@
 ### Hello, world!
 * I'm currently learning .NET development
 * Pronouns: he/they
-* Proficient in: .NET, C#, JavaSpript, TypeScript, Entity Framework, SQL and NoSQL Databases, Blazor, HTML, CSS and more!
+* Proficient in: .NET, C#, JavaSpript, TypeScript, Entity Framework, SQL and NoSQL Databases, Blazor, HTML and CSS 
 * Also proficient in project management and SCRUM
 *  📫 How to reach me: email me at arivd(a)leimar.se or hit me up on Discord: pinkros
 
